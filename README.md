@@ -81,6 +81,10 @@ Model performance is evaluated using the coefficient of determination (R² score
 
 This project demonstrates how data analysis, visualization, and regression techniques can be applied to housing data to investigate factors associated with property prices and build house price prediction models.
 
+## Acknowledgment
+
+This project was completed as part of the IBM/Coursera Data Analysis with Python course. The original guided assignment was used as the starting point, and the notebook was organized for presentation in a GitHub portfolio.
+
 ## Author
 
 Muskan
